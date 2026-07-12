@@ -55,7 +55,7 @@ export const PROJECTS = [
       'This very site — a premium, glassmorphic dark-themed portfolio built with React, Tailwind CSS, and Framer Motion, engineered for performance, accessibility, and a distinctive visual identity.',
     tech: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
     liveUrl: '#',
-    githubUrl: 'https://github.com/Usef662003',
+    githubUrl: 'https://github.com/Usef662003/Portfolio',
     featured: false,
     tag: 'Personal Site',
   features: [
