@@ -103,10 +103,14 @@ export default function Hero() {
           </motion.p>
 
           <motion.div variants={fadeUp} className="mt-10 flex flex-wrap gap-4">
-            <a href={PERSONAL_INFO.resumeUrl} download className="btn-primary">
-              <Download size={17} />
-              Download Resume
-            </a>
+<a
+  href={PERSONAL_INFO.resumeUrl}
+  download="Yousef_Ahmed_CV.pdf"
+  className="btn-primary"
+>
+  <Download size={17} />
+  <span>Download Resume</span>
+</a>
             <a href="#contact" className="btn-secondary">
               <Mail size={17} />
               Contact Me

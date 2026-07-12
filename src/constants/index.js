@@ -13,6 +13,7 @@ export const PERSONAL_INFO = {
   linkedin: 'https://www.linkedin.com/in/yousef-ahmed-951b06327/', // placeholder
   whatsapp: 'https://wa.me/01289645338', // placeholder
   resumeUrl: '/Yousef_Ahmed_CV.pdf',
+  resumeUrl: "../../public/CV/Yousef_Ahmed_CV.pdf",
   tagline:
     'I build fast, accessible, and thoughtfully designed interfaces — turning complex product ideas into interactions that feel effortless.',
 };
